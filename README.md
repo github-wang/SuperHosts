@@ -8,7 +8,7 @@
 
 ## 使用
 
-在Linux下，使用cat命令合并，当然也可以直接下载[`hosts`](https://raw.githubusercontent.com/pexcn/SuperHosts/master/hosts)文件，替换到系统的相应位置。
+在Linux下，可以使用`cat命令`合并，当然也可以直接下载[`hosts`](https://raw.githubusercontent.com/pexcn/SuperHosts/master/hosts)文件，替换到系统的相应位置。
 
 使用cat命令合并：
 ```
